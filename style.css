@@ -1,0 +1,160 @@
+body{
+
+    text-align: justify
+    ;
+    background-color: black;
+    font-family: 'Raleway' cursive;
+}
+h1 { 
+
+    text-align: center;
+    font-size: 100px;
+    color:white
+}
+
+.foto 
+{
+    border:10px solid black;
+    
+}
+
+#primerfondo {
+
+    background-image:url(./Imagenes/bubududufondo2.gif);
+    height: 1000px;
+}
+
+h2 {
+background-color: plum;
+border: 1px solid;
+font-size: 40px;
+}
+
+#firsttime{
+    margin-top: 10%;
+    margin-left: 35%;
+    border-radius: 50%;
+    border: 10px solid black;
+}
+
+p {
+    background-color: peachpuff;
+    font-size: 20px;
+    border: 1px solid black;
+}
+
+#segundofondo{
+    background-image: url(./Imagenes/fondo2.gif) ; background-size:contain; 
+    height: 100%;
+}
+
+#Sillymoment{ 
+    margin-left: 42%;
+}
+
+#tercerfondo{
+
+    background-image: url(./Imagenes/fondo3.gif); background-size: 800px;
+}
+
+#parquedelasaguas{
+    margin-left: 38%;
+    border-radius: 40%;
+}
+
+#cuartofondo{
+    background-image: url(./Imagenes/fondo4.jpg); background-size:contain;
+}
+
+#bbonion{
+    margin-left: 40%;
+    height: 400px;
+    width: 400px;
+}
+
+.gif{
+    margin-left: 35%;
+}
+
+#quintofondo{
+    background-image: url(./Imagenes/fondo5.jpg); background-size: contain;
+}
+
+#arequipa{
+    margin-left: 38%;
+    border-radius: 50%;
+}
+
+#sextofondo{
+    background-image: url(./Imagenes/fondo6.jpg);
+}
+
+#hotsprings{
+    margin-left: 37%;
+    border-radius: 50%;
+}
+
+#septimofondo{
+    background-image: url(./Imagenes/fondo7.gif); background-size: 600px;
+}
+
+#bestone
+ {
+    margin-left: 35%;
+    border-radius: 20%;
+
+
+}
+
+#octavofondo{
+    background-image: url(./Imagenes/octavofondo.png);
+}
+
+#cute4{
+
+    margin-left: 9%;
+
+}
+
+
+#car {
+
+    margin-left: 7% ;
+}
+
+#novenofondo{
+ background-image: url(./Imagenes/novenofondo.gif);   
+}
+
+#sillyfamily{
+
+    margin-left: 6%;
+    border-radius: 50%;
+}
+#elevator{
+    border-radius: 50%;
+    margin-left: 37%;
+}
+
+#momentmad{
+    border-radius: 50%;
+    margin-right: 6%;
+}
+
+
+#cute2{
+
+    margin-left: 3%;
+}
+
+#rosas{
+
+    width:40%
+;
+
+}
+
+#principal{
+    width: 50%;
+    margin-left: 450px;
+}
